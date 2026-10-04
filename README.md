@@ -106,3 +106,7 @@ cmake -S . -B build/codeblocks -G "CodeBlocks - Ninja" -DCMAKE_BUILD_TYPE=Debug
 ```
 
 Open `build/codeblocks/cobogo-opengl-architecture.cbp` in Code::Blocks. If the debugger is not detected automatically, configure it to use `C:\msys64\ucrt64\bin\gdb.exe`.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
